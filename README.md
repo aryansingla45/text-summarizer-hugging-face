@@ -16,5 +16,7 @@ license: mit
 
 # hugging-face-demo
 
+it connects to hugging face for a text summarization model.
+
 
 
