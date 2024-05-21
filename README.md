@@ -41,8 +41,3 @@ Run `python app.py`
 ### License 
 
 This repository uses MIT License.
-
-
-### Link to run summarizer: [https://huggingface.co/spaces/aryansingla45/hugging-face-demo](url)
-
-
